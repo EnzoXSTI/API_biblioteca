@@ -15,6 +15,7 @@ try:
 except Exception as e:
     print(f"Erro na conexao: {e}")
 
+
 from view import *
 
 if __name__ == '__main__':
